@@ -1,0 +1,47 @@
+TASK 0 - QUICK GUIDE
+====================
+Student: Emirhan Mert (54826)
+Repository: https://github.com/emirhMert/Task-0
+
+
+FILES TO UPLOAD TO GITHUB:
+---------------------------
+1. main.cpp     - Your C++ program (REQUIRED)
+2. README.md    - Documentation (recommended)
+3. .gitignore   - Git config (optional)
+
+
+HOW TO UPLOAD (3 STEPS):
+-------------------------
+
+STEP 1: Go to Your Repository
+→ https://github.com/emirhMert/Task-0
+
+STEP 2: Upload Files
+→ Click "Add file" → "Upload files"
+→ Drag and drop: main.cpp, README.md, .gitignore
+→ Click "Commit changes"
+
+STEP 3: Make it PUBLIC
+→ Settings → Change visibility → Public
+
+
+WHAT TO SUBMIT:
+----------------
+Name: Emirhan Mert
+GitHub Email: [your-university-email]
+Repository: https://github.com/emirhMert/Task-0
+
+
+DEADLINE: October 15, 2025, 23:59
+POINTS: 5 points
+
+
+PROGRAM TESTED:
+---------------
+Input: 12, 5
+Output:
+  Sum: 17 ✓
+  Difference: 7 ✓
+  Product: 60 ✓
+  Divisors: 1, 2, 3, 4, 6, 12 ✓
